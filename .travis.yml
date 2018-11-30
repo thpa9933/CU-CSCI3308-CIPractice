@@ -1,0 +1,10 @@
+script:
+  #build file script
+  #make name of function in make file
+  make
+  #run unit tests bash scritp
+
+
+install:
+  #supply command to build packages
+  apt-get install check
