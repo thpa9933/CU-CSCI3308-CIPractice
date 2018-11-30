@@ -4,7 +4,6 @@ script:
   make
   #run unit tests bash scritp
 
-
 install:
   #supply command to build packages
-  apt-get install check
+  sudo apt-get install check
