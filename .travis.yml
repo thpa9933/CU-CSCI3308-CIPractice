@@ -1,7 +1,7 @@
 script:
   #build file script
   #make name of function in make file
-  make
+  make test
   #run unit tests bash scritp
 
 install:
